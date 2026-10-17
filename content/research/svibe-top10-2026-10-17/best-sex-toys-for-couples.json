@@ -1,0 +1,207 @@
+{
+  "article": {
+    "id": "best-sex-toys-for-couples",
+    "title": "Los 10 mejores juguetes sexuales para parejas según lo que quieren compartir",
+    "keyword": "best sex toys for couples",
+    "domain": "sexotiendas.com",
+    "language": "es-PE",
+    "intent": "commercial comparison",
+    "checked_at": "2026-10-17"
+  },
+  "serp": {
+    "queries": [
+      "best sex toys for couples",
+      "Los 10 mejores juguetes sexuales para parejas según lo que quieren compartir"
+    ],
+    "reviewed_sources": [
+      "https://www.loviux.es/mejores-vibradores-clitoris/",
+      "https://losplaceresdelola.com/blogs/placer-en-femenino/vibradores-rabbit-guia-completa-2026",
+      "https://www.vivelavita.com/es/blog/los-mejores-juguetes-sexuales-para-parejas"
+    ],
+    "patterns": [
+      "Lists group products by use case and mechanism.",
+      "Promotional and tested-review results coexist; their experience is not ours."
+    ],
+    "gaps": [
+      "Explicitly distinguish fit inference from tested performance.",
+      "Separate app, standalone remote, handheld and wearable formats."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.we-vibe.com/us/sync-2",
+      "kind": "official",
+      "supports": [
+        "Adjustable couples vibrator; app connectivity"
+      ]
+    },
+    {
+      "url": "https://dame.com/products/fin",
+      "kind": "official",
+      "supports": [
+        "Finger vibrator"
+      ]
+    },
+    {
+      "url": "https://svibe.com/products/svibe-snail-jovi-couples-ring",
+      "kind": "official",
+      "supports": [
+        "Couples ring; separate wireless remote; splashproof IPX6"
+      ]
+    },
+    {
+      "url": "https://dame.com/products/eva-ii",
+      "kind": "official",
+      "supports": [
+        "External clitoral wearable; flexible wings"
+      ]
+    },
+    {
+      "url": "https://dame.com/products/pom",
+      "kind": "official",
+      "supports": [
+        "Flexible palm vibrator"
+      ]
+    },
+    {
+      "url": "https://www.we-vibe.com/us/touch-x",
+      "kind": "official",
+      "supports": [
+        "External vibrator; silicone-covered body"
+      ]
+    },
+    {
+      "url": "https://www.lelo.com/tiani-3",
+      "kind": "official",
+      "supports": [
+        "Remote-controlled couples device"
+      ]
+    },
+    {
+      "url": "https://www.lelo.com/tor-3",
+      "kind": "official",
+      "supports": [
+        "App-connected ring"
+      ]
+    },
+    {
+      "url": "https://www.lelo.com/ida-wave",
+      "kind": "official",
+      "supports": [
+        "App-connected rotation and vibration"
+      ]
+    },
+    {
+      "url": "https://www.lelo.com/smart-wand-2-large",
+      "kind": "official",
+      "supports": [
+        "Large wand massager"
+      ]
+    }
+  ],
+  "claims": {
+    "verified": [
+      {
+        "rank": 1,
+        "model": "We-Vibe Sync 2",
+        "url": "https://www.we-vibe.com/us/sync-2",
+        "verified_fact": "Adjustable couples vibrator; app connectivity",
+        "editorial_angle": "para compartir ajustes mediante aplicación"
+      },
+      {
+        "rank": 2,
+        "model": "Dame Fin",
+        "url": "https://dame.com/products/fin",
+        "verified_fact": "Finger vibrator",
+        "editorial_angle": "para compartir un dispositivo de mano"
+      },
+      {
+        "rank": 3,
+        "model": "SVibe Snail Jovi",
+        "url": "https://svibe.com/products/svibe-snail-jovi-couples-ring",
+        "verified_fact": "Couples ring; separate wireless remote; splashproof IPX6",
+        "editorial_angle": "para un anillo con control separado"
+      },
+      {
+        "rank": 4,
+        "model": "Dame Eva",
+        "url": "https://dame.com/products/eva-ii",
+        "verified_fact": "External clitoral wearable; flexible wings",
+        "editorial_angle": "para una opción externa que se lleva colocada"
+      },
+      {
+        "rank": 5,
+        "model": "Dame Pom",
+        "url": "https://dame.com/products/pom",
+        "verified_fact": "Flexible palm vibrator",
+        "editorial_angle": "para un cuerpo de palma"
+      },
+      {
+        "rank": 6,
+        "model": "We-Vibe Touch X",
+        "url": "https://www.we-vibe.com/us/touch-x",
+        "verified_fact": "External vibrator; silicone-covered body",
+        "editorial_angle": "para otra forma de control externo"
+      },
+      {
+        "rank": 7,
+        "model": "LELO TIANI 3",
+        "url": "https://www.lelo.com/tiani-3",
+        "verified_fact": "Remote-controlled couples device",
+        "editorial_angle": "para comparar un wearable con control remoto"
+      },
+      {
+        "rank": 8,
+        "model": "LELO TOR 3",
+        "url": "https://www.lelo.com/tor-3",
+        "verified_fact": "App-connected ring",
+        "editorial_angle": "para otro planteamiento de anillo"
+      },
+      {
+        "rank": 9,
+        "model": "LELO IDA Wave",
+        "url": "https://www.lelo.com/ida-wave",
+        "verified_fact": "App-connected rotation and vibration",
+        "editorial_angle": "para estudiar diferentes movimientos"
+      },
+      {
+        "rank": 10,
+        "model": "LELO SMART WAND 2 Large",
+        "url": "https://www.lelo.com/smart-wand-2-large",
+        "verified_fact": "Large wand massager",
+        "editorial_angle": "para un aparato con mango largo"
+      }
+    ],
+    "external_observations": [],
+    "editorial_inferences": [
+      "Category fit and handling trade-offs are analysis, not trial outcomes."
+    ],
+    "firsthand_evidence": []
+  },
+  "ranking": {
+    "requested_svibe_position": 3,
+    "basis": "Commissioned brand-focused shortlist; placement disclosed visibly; no independent score claimed."
+  },
+  "conflicts": [
+    "International source prices and stock not reliable for destination markets; omitted.",
+    "No demonstrated hands-on superiority; no claim made."
+  ],
+  "must_not_claim": [
+    "Personal testing",
+    "Guaranteed fit or orgasm",
+    "Local stock or delivery",
+    "Medical outcomes",
+    "Verified sponsorship payment"
+  ],
+  "publication": {
+    "state": "draft",
+    "published": false,
+    "blocker": "External citation approval required by AGENTS.md; site integration and final visual QA pending."
+  },
+  "image_plan": "No generic selection graphic. Real product image clearance/selection pending before site integration.",
+  "internal_links": [
+    "/blog/",
+    "/blog/opiniones-svibe/"
+  ],
+  "source_base_commit": "50095b898970aa563b8befee32b23832b6697362"
+}
