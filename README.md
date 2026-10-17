@@ -23,3 +23,7 @@ El repositorio contiene fuentes estáticas; el generador canónico de PBNS crea 
 ## Gestión
 
 El repositorio está preparado para incorporarse al inventario y al flujo editorial de PBNS.
+
+## SVibe top-ten batch — 2026-10-17
+
+Approved articles are in their native content directories and `site/`. Rebuild the batch with canonical `pbns/work/publish-svibe-top10.py`, with the seven site repositories alongside the canonical checkout. That command preserves historical output outside the batch discovery pages. QA: canonical `work/check-svibe-top10.cjs` checks mobile/desktop rendering, images, links, TOC and canonical URLs. Evidence: canonical `outputs/svibe-top10-2026-10-17/`.
