@@ -25,6 +25,25 @@ def link(label, href, active=False):
     current = ' aria-current="page"' if active else ''
     return f'<a href="{esc(href, quote=True)}"{current}>{esc(label)}</a>'
 
+def related_section(post, labels):
+    """Render explicit, same-site recommendations without changing article prose."""
+    titles = {'en': 'Related articles', 'es': 'Artículos relacionados', 'pt': 'Artigos relacionados', 'vi': 'Bài viết liên quan'}
+    title = titles[post['language'][:2]]
+    seen = {post['route']}
+    cards = []
+    entries = post['relatedArticles']
+    if not 1 <= len(entries) <= 4:
+        raise ValueError('Choose one to four related articles')
+    for item in entries:
+        route = item['route']
+        link(item['title'], route)  # Apply the same internal-link policy as navigation.
+        if route in seen:
+            raise ValueError('Related links must be distinct and cannot link to this article')
+        seen.add(route)
+        description = f'<p>{esc(item["description"])}</p>' if item.get('description') else ''
+        cards.append(f'<a class="j-related-card" href="{esc(route, quote=True)}"><h3>{esc(item["title"])}</h3>{description}</a>')
+    return f'<section class="j-onward j-related" aria-labelledby="related-reading"><h2 id="related-reading">{title}</h2><nav class="j-related-grid" aria-label="{title}">{"".join(cards)}</nav><div class="j-related-back">{link(labels["back"], "/blog/")}</div></section>'
+
 def meta(path):
     front = path.read_text().split('---\n', 2)[1]
     result = {}
@@ -87,10 +106,12 @@ def render(page, cfg, post, values, css, js):
     elif family == 'sexotiendas':
         reading = f'<div class="j-contents-band">{toc}</div><div class="j-reading"><article class="j-copy" id="article-body">{body}</article></div>'
     else:
-        reading = f'<div class="j-reading">{toc if family != "cumen" else ""}<article class="j-copy" id="article-body">{body}</article></div>' 
+        reading = f'<div class="j-reading">{toc if family != "cumen" else ""}<article class="j-copy" id="article-body">{body}</article></div>'
     related = ''.join(link(p['title'], p['route']) for p in cfg['posts'] if p['route'] != post['route'])
     related += link(t['back'], '/blog/')
     onward = f'<section class="j-onward"><div><p class="j-kicker">{esc(cfg["brand"])}</p><h2>{t["more"]}</h2><p>{t["moretext"]}</p></div><nav aria-label="{t["more"]}">{related}</nav></section>'
+    if post.get('relatedArticles'):
+        onward = related_section(post, t)
     main = f'<main class="j-main" id="main"><div class="j-container"><div class="j-breadcrumb">{link(cfg["blogLabel"], "/blog/")}<span aria-hidden="true">/</span><span>{t["guide"]}</span></div>{hero}{reading}{onward}</div></main>'
     footlinks = ''.join(link(label, href) for label, href in cfg['footer'])
     footer = f'<footer class="j-footer"><div class="j-footer-inner"><div class="j-footer-brand"><a class="j-brand" href="/">{logo}</a><p>{esc(cfg["footerText"])}</p></div><div class="j-footer-links"><h2>{t["explore"]}</h2><nav aria-label="{t["about"]}">{footlinks}</nav></div><a class="j-top" href="#page-top">{t["top"]} ↑</a><div class="j-footer-bottom"><p>© 2026 {esc(cfg["brand"])}</p><p>{t["legal"]}</p></div></div></footer>'

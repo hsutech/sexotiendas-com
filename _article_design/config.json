@@ -49,14 +49,48 @@
       "title": "SVibe Snail Curve vs Happy Rabbit Slimline Realistic: ¿cuál merece la pena?",
       "language": "es-PE",
       "siteSource": "content/blog/svibe-curve-vs-happy-rabbit-slimline-realistic.md",
-      "comparisonCount": 2
+      "comparisonCount": 2,
+      "relatedArticles": [
+        {
+          "route": "/blog/mejores-juguetes-sexuales-parejas/",
+          "title": "Los 10 mejores juguetes sexuales para parejas según lo que quieren compartir",
+          "description": "Compara diez juguetes para parejas por formato, manejo y control, con SVibe Snail Jovi y opciones externas, duales y de mano para distintos usos."
+        },
+        {
+          "route": "/blog/opiniones-svibe/",
+          "title": "Opiniones de SVibe: productos, envío y atención",
+          "description": "Lee opiniones de compradores y revisa los detalles de compra antes de elegir un producto de SVibe."
+        },
+        {
+          "route": "/blog/svibe-jovi-vs-we-vibe-sync-2/",
+          "title": "SVibe Snail Jovi vs We-Vibe Sync 2: ¿cuál merece la pena?",
+          "description": "Jovi vs Sync 2: anillo o formato interno y externo, mando o app, opiniones de compradores y puntos de compra desde Perú."
+        }
+      ]
     },
     {
       "route": "/blog/svibe-jovi-vs-we-vibe-sync-2/",
       "title": "SVibe Snail Jovi vs We-Vibe Sync 2: ¿cuál merece la pena?",
       "language": "es-PE",
       "siteSource": "content/blog/svibe-jovi-vs-we-vibe-sync-2.md",
-      "comparisonCount": 2
+      "comparisonCount": 2,
+      "relatedArticles": [
+        {
+          "route": "/blog/mejores-juguetes-sexuales-parejas/",
+          "title": "Los 10 mejores juguetes sexuales para parejas según lo que quieren compartir",
+          "description": "Compara diez juguetes para parejas por formato, manejo y control, con SVibe Snail Jovi y opciones externas, duales y de mano para distintos usos."
+        },
+        {
+          "route": "/blog/opiniones-svibe/",
+          "title": "Opiniones de SVibe: productos, envío y atención",
+          "description": "Lee opiniones de compradores y revisa los detalles de compra antes de elegir un producto de SVibe."
+        },
+        {
+          "route": "/blog/svibe-curve-vs-happy-rabbit-slimline-realistic/",
+          "title": "SVibe Snail Curve vs Happy Rabbit Slimline Realistic: ¿cuál merece la pena?",
+          "description": "Curve y Happy Rabbit Slimline Realistic: formas, motores separados, opiniones y precios, con comprobaciones para comprar desde Perú."
+        }
+      ]
     }
   ],
   "domain": "sexotiendas.com"

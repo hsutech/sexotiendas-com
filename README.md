@@ -51,3 +51,7 @@ New commissioned, research-based comparisons retain this site’s editorial layo
 - `content/blog/svibe-jovi-vs-we-vibe-sync-2.md` → https://sexotiendas.com/blog/svibe-jovi-vs-we-vibe-sync-2/
 
 Canonical research, independent review and publication receipts: `pbns/content/svibe-vs-2026-10-18/` and `pbns/outputs/svibe-vs-2026-10-18/`. Rebuild through the canonical batch integration script; the installed design pass supports `comparisonCount: 2` and scoped routes while preserving existing listicles.
+
+## Related reading — 18 October 2026
+
+The current product-comparison routes have three curated internal article links beneath their prose. `_article_design/config.json` stores each route’s `relatedArticles`; links remain inside this site and use the article language. The shared renderer leaves source prose and historical pages unchanged. Canonical metadata is in `content/svibe-vs-2026-10-18/manifest.json`; run `python3 work/install-related-articles.py svibe-vs-2026-10-18` from the canonical checkout to install/reapply this block. Normal batch regeneration preserves these selections.
