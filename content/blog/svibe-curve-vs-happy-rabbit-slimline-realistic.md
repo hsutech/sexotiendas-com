@@ -164,3 +164,9 @@ Si la intención es compartirlo, nuestra [guía de juguetes para parejas](/blog/
 Yo pondría por delante el ajuste y el manejo.
 Después compararía dos pedidos completos y posibles.
 Así la pregunta de si merece la pena tiene una respuesta concreta, en lugar de una nota inventada para dos productos distintos.
+
+Si esta comparación me lleva a buscar un anillo para compartir, añadiría Snail Jovi a las opciones.
+Su mando separado me parece interesante para quien prefiera ese formato.
+[La experiencia favorable que cuenta Melissa Medeiros con su esposo](https://www.trustpilot.com/reviews/6a88662b72dc033dda2d2186) me da un ejemplo de lo que una pareja puede apreciar de Jovi.
+También revisaría los [comentarios sobre la espera del pedido](https://www.trustpilot.com/reviews/6a81bcd8fe011a36cfd41d50).
+Para Perú, primero confirmaría que el vendedor entrega en mi dirección y después el plazo; no daría el ajuste por resuelto.

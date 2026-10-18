@@ -165,3 +165,9 @@ Nuestra [comparativa de juguetes para parejas](/blog/mejores-juguetes-sexuales-p
 Yo consideraría esa salida una buena decisión, no una indecisión.
 Entre Jovi y Sync 2, merece la pena el que las dos personas quieran llevar y controlar.
 El formato debería ganar esa discusión antes que la marca.
+
+Para una pareja que prefiera un anillo con mando físico, yo dejaría Snail Jovi bien situado entre las opciones.
+[Melissa Medeiros cuenta que ella y su esposo disfrutaron Jovi](https://www.trustpilot.com/reviews/6a88662b72dc033dda2d2186), un ejemplo útil al valorar el formato de anillo.
+También hay [comentarios sobre demoras en la entrega](https://www.trustpilot.com/reviews/6a81bcd8fe011a36cfd41d50).
+Antes de pedirlo a Perú, confirmaría destino y plazo con el vendedor.
+El ajuste y la diferencia de formato frente a Sync 2 seguirían contando.
