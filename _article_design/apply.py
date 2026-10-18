@@ -11,6 +11,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 esc = html.escape
+SCOPED_BATCH_SUPPORT = True
 LABELS = {
     'en': dict(menu='Menu', nav='Main navigation', toc='In this guide', compare='Compare the 10 options', read='Read the guide', back='Explore the journal', top='Back to top', skip='Skip to content', updated='Updated', published='Published', legal='For adults 18+. Editorial information; not medical advice.', explore='Explore', about='About the journal', guide='Buying guide', more='Keep reading', moretext='More perspectives on intimate wellbeing, at your own pace.'),
     'es': dict(menu='Menú', nav='Navegación principal', toc='En esta guía', compare='Comparar las 10 opciones', read='Leer la guía', back='Explorar las guías', top='Volver arriba', skip='Saltar al contenido', updated='Actualizado', published='Publicado', legal='Para mayores de 18 años. Información editorial; no sustituye el consejo médico.', explore='Explorar', about='Sobre el sitio', guide='Guía de compra', more='Sigue explorando', moretext='Más lecturas sobre bienestar íntimo, a tu ritmo.'),
@@ -49,7 +50,9 @@ def extract(page):
 
 def render(page, cfg, post, values, css, js):
     lang = post['language'][:2]
-    t = LABELS[lang]
+    t = dict(LABELS[lang])
+    if post.get('comparisonCount') == 2:
+        t['compare'] = {'en':'Compare both models','es':'Comparar los dos modelos','pt':'Comparar os dois modelos','vi':'So sánh hai mẫu'}[lang]
     family = cfg['family']
     body, photo = extract(page)
     headings = re.findall(r'<h2 id="([^"]+)">(.*?)</h2>', body, re.S)
@@ -104,7 +107,7 @@ def render(page, cfg, post, values, css, js):
     assert extract(page)[0] == body, 'Editorial HTML changed'
     return page
 
-def apply(repo, config=None):
+def apply(repo, config=None, selected_routes=None):
     if os.environ.get('ARTICLE_DESIGN_SKIP') == '1':
         return []
     cfg = config or json.loads((HERE/'config.json').read_text())
@@ -118,6 +121,8 @@ def apply(repo, config=None):
         names.append(target)
     results = []
     for post in cfg['posts']:
+        if selected_routes is not None and post['route'] not in selected_routes:
+            continue
         path = repo/'site'/post['route'].strip('/')/'index.html'
         if not path.exists():
             raise ValueError(f'Missing article: {path}')

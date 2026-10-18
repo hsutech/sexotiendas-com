@@ -42,3 +42,12 @@ The SVibe top-ten routes use the `sexotiendas` editorial composition. Source con
 ## First-person analysis and buyer opinions — 18 October 2026
 
 The nine-article campaign was revised section by section for a conversational analytical voice. Named public buyer comments are attributed to their hosting store or Trustpilot; store verification labels are not independent purchase checks. No personal product testing, partner experience or editorial numerical score is claimed. The existing layouts, product photographs, comparison tables and URLs are preserved. Canonical evidence and independent review: `outputs/svibe-voice-2026-10-18/` in `hsutech/pbns`.
+
+## SVibe product comparisons — 18 October 2026
+
+New commissioned, research-based comparisons retain this site’s editorial layout. No firsthand testing or numerical editorial ratings are claimed. Official product imagery and attributed buyer observations accompany a two-product table.
+
+- `content/blog/svibe-curve-vs-happy-rabbit-slimline-realistic.md` → https://sexotiendas.com/blog/svibe-curve-vs-happy-rabbit-slimline-realistic/
+- `content/blog/svibe-jovi-vs-we-vibe-sync-2.md` → https://sexotiendas.com/blog/svibe-jovi-vs-we-vibe-sync-2/
+
+Canonical research, independent review and publication receipts: `pbns/content/svibe-vs-2026-10-18/` and `pbns/outputs/svibe-vs-2026-10-18/`. Rebuild through the canonical batch integration script; the installed design pass supports `comparisonCount: 2` and scoped routes while preserving existing listicles.
