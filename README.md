@@ -38,3 +38,7 @@ The existing top-ten articles now include individually researched product analys
 ## Article design — 18 October 2026
 
 The SVibe top-ten routes use the `sexotiendas` editorial composition. Source configuration and portable, dependency-free enhancement live in `_article_design/`. Run `python3 _article_design/apply.py .` after generating HTML (native builders already invoke it). Navigation is keyboard-accessible, contents collapse on mobile, and all article prose and source links are preserved. Only configured article routes are enhanced; the historical catalogue stays unchanged. Canonical installer: `work/install-article-design.py`.
+
+## First-person analysis and buyer opinions — 18 October 2026
+
+The nine-article campaign was revised section by section for a conversational analytical voice. Named public buyer comments are attributed to their hosting store or Trustpilot; store verification labels are not independent purchase checks. No personal product testing, partner experience or editorial numerical score is claimed. The existing layouts, product photographs, comparison tables and URLs are preserved. Canonical evidence and independent review: `outputs/svibe-voice-2026-10-18/` in `hsutech/pbns`.
