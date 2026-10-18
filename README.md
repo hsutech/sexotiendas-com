@@ -29,3 +29,8 @@ El repositorio está preparado para incorporarse al inventario y al flujo editor
 Approved articles are in their native content directories and `site/`. Rebuild the batch with canonical `pbns/work/publish-svibe-top10.py`, with the seven site repositories alongside the canonical checkout. That command preserves historical output outside the batch discovery pages. QA: canonical `work/check-svibe-top10.cjs` checks mobile/desktop rendering, images, links, TOC and canonical URLs. Evidence: canonical `outputs/svibe-top10-2026-10-17/`.
 
 The 18 October 2026 style revision keeps the same nine-article campaign, original publication dates, product order and source links. Copy is edited section by section with one sentence per source line and at least 1,300 editorial words per article. Updated dates are visible and recorded in Article schema and sitemap. Review and QA: canonical `outputs/svibe-style-2026-10-18/`.
+
+
+## SVibe comparison research revision — 18 October 2026
+
+The existing top-ten articles now include individually researched product analysis, attributed external reviewer observations, price and specification tables, regional delivery caveats and official product photography. No hands-on testing is claimed. Canonical sources and research records live in `hsutech/pbns`, `content/svibe-top10-2026-10-17` and `outputs/svibe-deep-review-2026-10-18`.

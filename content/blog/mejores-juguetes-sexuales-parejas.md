@@ -16,7 +16,7 @@ Dame Fin propone un manejo con la mano.
 SVibe Snail Jovi ocupa el tercer puesto para quienes quieren un anillo con control remoto.
 
 Esta guía es para adultos.
-Consultamos las fichas oficiales el 17 de octubre de 2026.
+Consultamos las fichas oficiales el 18 de octubre de 2026.
 No hemos probado los productos ni medido resultados.
 El encargo pidió dar una posición destacada a SVibe.
 No es una clasificación basada en pruebas independientes.
@@ -39,152 +39,187 @@ Nuestra [reseña editorial de SVibe](/blog/opiniones-svibe/) amplía la informac
 Si todavía no tienen claro qué formato quieren, empiecen por los modelos de mano.
 Compararlos con los que se llevan colocados puede ayudarles a decidir qué les atrae más.
 
+## Tabla comparativa de precios y características
+
+Los valores de esta tabla fueron comprobados el 18 de octubre de 2026 en tiendas de Estados Unidos.
+No son precios en soles ni presupuestos de envío a Perú.
+We-Vibe anuncia sus modelos desde las cifras mostradas.
+Para revisar la información, abran el nombre del producto o el enlace del precio según busquen especificaciones u oferta.
+No comparamos la batería en laboratorio: cada fabricante usa sus propias condiciones.
+El símbolo “≤” significa hasta, “~” aproximado y “—” no confirmado.
+La columna de contacto describe anatomía y colocación sin suponer el género de quienes comparten el juguete.
+
+| Modelo | Precio de referencia | Contacto / formato | Control | Materiales | Carga / autonomía |
+| --- | --- | --- | --- | --- | --- |
+| [We-Vibe Sync 2](https://www.we-vibe.com/us/sync-2) | [US$169](https://www.we-vibe.com/us/sync-2) | Interno + externo colocado | App + aparato | silicona | 90 min / ≤120 min |
+| [Dame Fin](https://dame.com/products/fin) | [US$49](https://dame.com/products/fin) | Externo de dedo | Un botón | silicona | 120 min / ~60 min |
+| [SVibe Snail Jovi](https://svibe.com/products/svibe-snail-jovi-couples-ring) | [US$69](https://svibe.com/products/svibe-snail-jovi-couples-ring) | Anillo para pene / compartido | Mando físico | silicona | — |
+| [Dame Eva](https://dame.com/products/eva-ii) | [US$129](https://dame.com/products/eva-ii) | Externo colocado | Un botón | silicona | 240 min / ~60 min |
+| [Dame Pom](https://dame.com/products/pom) | [US$103](https://dame.com/products/pom) | Externo | Botones | silicona | 120 min / ~60 min |
+| [We-Vibe Touch X](https://www.we-vibe.com/us/touch-x) | [US$109](https://www.we-vibe.com/us/touch-x) | Externo | Botones | silicona + ABS | 90 min / ≤120 min |
+| [LELO TIANI 3](https://www.lelo.com/tiani-3) | Sin confirmar | Interno + externo colocado | Mando físico | silicona + ABS | 120 min / ≤120 min |
+| [LELO TOR 3](https://www.lelo.com/tor-3) | Sin confirmar | Anillo para pene / compartido | App + aparato | silicona | 120 min / ≤120 min |
+| [LELO IDA Wave](https://www.lelo.com/ida-wave) | Sin confirmar | Interno + externo colocado | App + aparato | silicona + ABS | 120 min / ≤120 min |
+| [LELO SMART WAND 2 Large](https://www.lelo.com/smart-wand-2-large) | Sin confirmar | Externo | Botones | silicona + ABS | 150 min / ≤240 min |
+
 ## 1. We-Vibe Sync 2: ajustes desde una aplicación
 
-Sync 2 es un vibrador ajustable para parejas con control por aplicación, según We-Vibe.
-Es una opción para comparar si quieren un modelo que se lleve colocado.
+![We-Vibe Sync 2: fotografía oficial de la forma y los controles](/assets/comparisons/sync-2.jpg)
+
+*Foto de producto: We-Vibe. Se muestra para comparar el diseño; no es una foto de una prueba propia.*
+
+Sync 2 es el que compararía si quieren compartir el control mediante una aplicación.
+Su diseño en C incorpora contacto interno y externo.
+La tienda de Estados Unidos parte de US$169.
 [Ficha oficial](https://www.we-vibe.com/us/sync-2).
 
-Comprueben qué celular y aplicación necesita.
-Lean cómo se vincula y cómo se detiene con los controles físicos.
-No hemos probado la estabilidad de la conexión ni el uso a distancia.
-Si nadie quiere usar el celular, comparen otro sistema de control.
-La forma del aparato sigue siendo una decisión aparte.
-Una app no mejora por sí sola el ajuste al cuerpo.
-Sync 2 merece un vistazo cuando les interesan tanto el formato como esa manera de compartir los ajustes.
+Yo no empezaría por la app, sino por quién quiere llevarlo colocado.
+Esa persona debe estar interesada en la parte interna del diseño.
+No hace falta asumir que toda pareja busca penetración para compartir un juguete.
+Si eso no les interesa, Fin o Touch X ofrecen otra forma de participar.
+El ajuste de la estructura merece revisarse antes de decidir.
+La conexión facilita cambiar parámetros, pero no convierte un formato inadecuado en uno cómodo.
+Para una compra en Perú, pediría al vendedor el modelo exacto y el total entregado, sin confundir este precio americano con una oferta local.
 
 ## 2. Dame Fin: un vibrador de dedo
 
-Fin es el vibrador de dedo de Dame.
-Lo incluimos para recordar que un juguete para parejas también puede ser algo que una persona sostiene.
+Fin me parece una de las formas más sencillas de comparar un juguete para compartir con la mano.
+Su sujeción para los dedos es el rasgo que lo diferencia.
+El modelo actual aparece por US$49.
 [Ficha oficial](https://dame.com/products/fin).
 
-Revisen cómo se coloca y cómo se cambian los ajustes.
-¿Quién quiere sostenerlo?
-¿Les gustaría turnarse?
-No hemos probado cómo se adapta la sujeción a distintas manos.
-Miren ese detalle antes de decidir.
-Si prefieren agarrar un cuerpo completo, comparen Pom o Touch X.
-Un juguete compartido no tiene por qué ser complicado.
-Puede bastar con que una persona lo sostenga y la otra indique qué cambios quiere.
-Lo útil es acordar una forma de manejo que les apetezca a ambas.
+Quien mueve la mano decide dónde queda el contacto.
+Por eso lo consideraría si prefieren una interacción directa a manejar un control remoto.
+La pieza va sujeta a los dedos, no está pensada para quedarse colocada por sí sola sobre el cuerpo.
+También encontré una contradicción entre tres y cinco intensidades en la ficha de Dame.
+No la he convertido en una cifra segura.
+Yo preguntaría por la unidad concreta si ese detalle les importa.
+El principal argumento a su favor sigue siendo cómo se sujeta.
+Su precio inferior no significa que deba gustar menos que una opción conectada.
 
 ## 3. SVibe Snail Jovi: un anillo con control remoto
 
-SVibe describe Jovi como un anillo para parejas con control remoto inalámbrico.
-Ocupa el tercer puesto de esta comparativa.
+Jovi introduce un anillo para pene con mando físico.
+La ficha del Snail Jovi original muestra US$69 y dos motores.
 [Ficha oficial](https://svibe.com/products/svibe-snail-jovi-couples-ring).
 
-Primero confirmen que ambos quieren probar un anillo.
-Después lean cómo colocarlo y retirarlo.
-El control inalámbrico no implica que funcione por internet.
-Si buscan uso desde lugares distintos, necesitan comprobar esa función en otro modelo.
-La ficha de Jovi indica resistencia a salpicaduras.
-Eso no es permiso para sumergirlo.
-Si prefieren sostener el aparato, vuelvan a los modelos de mano.
-El puesto tres no tiene que decidir por ustedes cuando el formato no les interesa.
+Yo lo recomendaría para comparar ese formato específico, no como producto universal para parejas.
+La anatomía y el ajuste importan antes que el mando.
+En la [reseña de SEXTECHGUIDE](https://sextechguide.com/reviews/devices/svibe-snail-jovi-review/), la persona que lo probó encontró sencillo el control, pero observó desplazamientos de la pieza externa.
+Es una experiencia ajena que limita una promesa de contacto constante.
+La publicación utiliza enlaces de afiliados.
+Además, la clasificación oficial actual es IPX6, para salpicaduras.
+No lo presento como sumergible.
+Su tercer puesto responde al encargo editorial, no a haber ganado una prueba comparativa.
+Si el formato de anillo no les interesa, pasar a una opción de mano tiene más sentido que forzar la elección.
 
 ## 4. Dame Eva: un modelo externo manos libres
 
-Eva es un vibrador clitoriano con alas flexibles y diseño manos libres.
-Permite comparar un modelo externo sin asumir que quieran penetración.
+Eva es una propuesta externa para llevar colocada con ayuda de unas alas flexibles.
+La marca publica US$129 en su tienda estadounidense.
 [Ficha oficial](https://dame.com/products/eva-ii).
 
-Lean las instrucciones de colocación antes de comprar.
-¿Les interesa buscar un ajuste o prefieren sujetar el aparato desde el principio?
-Un diseño manos libres puede necesitar que lo vuelvan a colocar.
-No hemos probado que permanezca en su sitio para todas las personas.
-Tampoco se puede saber por una foto cuánto les gustará llevarlo.
-Si quieren cambiar el contacto con la mano, comparen un modelo sostenido.
-Manos libres es una opción, no una categoría superior.
+Yo la compararía con Sync 2 para separar dos necesidades: contacto externo sin brazo interno o un dispositivo dual.
+No son lo mismo aunque ambos se anuncien para compartir.
+Dame reconoce que Eva puede necesitar apoyo o ajustes de posición.
+Esa limitación sería parte de mi decisión desde el principio.
+Si ustedes quieren dirigir el punto de contacto sin depender del encaje, Pom puede ser más apropiado como concepto.
+Si quieren un modelo externo que se lleve colocado, Eva merece compararse.
+No asumiría que una misma colocación funciona igual en cada cuerpo o postura.
+El ajuste personal no lo resuelve una lista de características.
 
 ## 5. Dame Pom: para apoyarlo en la palma
 
-Dame describe Pom como un vibrador flexible de palma.
-Es una opción manual redondeada, sin una parte interna como función principal.
+Pom me parece útil cuando quieren compartir un aparato que se sostenga en la palma.
+La referencia actual de Dame es US$103.
 [Ficha oficial](https://dame.com/products/pom).
 
-Miren las medidas y la ubicación de los botones.
-La persona que vaya a sostenerlo debería poder imaginar cómo cambiar un ajuste.
-Si se van a turnar, revisen ese detalle los dos.
-Quizá cada uno prefiera un agarre distinto.
-No hemos probado su comodidad en la mano.
-La ficha muestra la forma, pero no puede decidir esa preferencia por ustedes.
-Compárenla con Fin y Touch X.
-Una compra sencilla puede ser suficiente si hace lo que habían acordado.
+Yo compararía su volumen con el espacio que imaginan entre ambos cuerpos.
+Un objeto redondeado permite un apoyo distinto al de un mango o una bala.
+Eso puede ser una ventaja para una mano y un estorbo en otra posición.
+No hay que convertir una preferencia en una nota de calidad.
+El modelo vigente utiliza USB-C, un detalle que conviene cotejar con la unidad ofrecida por el vendedor.
+Las reseñas de versiones con otro cargador no describen todos sus accesorios actuales.
+Para mí, la elección se justificaría por el manejo manual.
+No pagaría por Pom esperando las funciones de una aplicación.
 
 ## 6. We-Vibe Touch X: otra forma de manejo externo
 
-Touch X es un vibrador externo con cuerpo recubierto de silicona.
-Añade una alternativa para quienes quieren sostener y reposicionar directamente el dispositivo.
+![We-Vibe Touch X: fotografía oficial de la forma y los controles](/assets/comparisons/touch-x.jpg)
+
+*Foto de producto: We-Vibe. Se muestra para comparar el diseño; no es una foto de una prueba propia.*
+
+Touch X sería mi alternativa cuando quieren cambiar el ángulo con la mano.
+We-Vibe anuncia un cuerpo de silicona y un precio inicial de US$109.
 [Ficha oficial](https://www.we-vibe.com/us/touch-x).
 
-Comparen su agarre con el de Pom.
-Miren dónde quedarían los dedos y cómo llegarían al botón.
-No elijan solo por cuál sale mejor en las fotos.
-Tampoco supongan que pequeño significa fácil de manejar.
-Si el ruido o la potencia son decisivos, busquen información específica.
-En esta guía no hemos hecho mediciones propias.
-Una etiqueta como “potente” no resuelve esa comparación.
-La forma y el acceso a los controles sí pueden ayudarles a reducir sus opciones.
+La punta y los laterales permiten comparar áreas de contacto diferentes.
+Me parece una razón más útil para elegirlo que buscar la palabra parejas en la caja.
+También deja claro quién dirige el aparato en cada momento.
+Si lo pasan de una persona a otra, conviene conocer primero los botones.
+No hace falta convertir ese aprendizaje en una sesión complicada.
+La limitación es sencilla: alguien tiene que sostenerlo.
+Yo lo elegiría si esa participación manual forma parte de lo que buscan.
+Si el objetivo es no ocupar las manos, compararía otro diseño antes de fijarme en su precio.
 
 ## 7. LELO TIANI 3: otro modelo con control remoto
 
-LELO describe TIANI 3 como un juguete para parejas con control remoto.
-Permite comparar otra forma de llevar el dispositivo colocado.
+TIANI 3 ofrece un mando separado con control por movimiento.
+La unidad principal se recarga y el mando usa dos pilas AAA.
 [Ficha oficial](https://www.lelo.com/tiani-3).
 
-Revisen el nombre completo y el control que incluye.
-Una variante con un nombre parecido puede funcionar de otra manera.
-Después lean cómo se coloca.
-No podemos prometer el mismo ajuste para todas las personas.
-Si les atrae más sostener el dispositivo, no necesitan un modelo que se lleve colocado.
-Compartir una compra no obliga a usar algo sin manos.
-La elección puede ser tan sencilla como decidir quién sostiene el aparato y quién cambia el ajuste.
+Yo lo compararía con Jovi por la forma de repartir el control, pero sin olvidar que son formatos corporales distintos.
+Un anillo para pene y un modelo que se lleva colocado con una parte interna tienen usos distintos.
+También comprobaría qué ocurre al cambiar entre botones y movimiento del mando.
+Si prefieren mantener una intensidad fija, esa función adicional puede ser poco relevante.
+No he podido verificar un precio actual en la ficha oficial.
+Por eso no lo coloco por delante de otro modelo por una supuesta oferta.
+Antes de comprar desde Perú, pediría precio, accesorios incluidos y quién responde si el mando presenta un problema.
 
 ## 8. LELO TOR 3: un anillo conectado
 
-TOR 3 es un anillo conectado de LELO.
-Lo incluimos para que quienes ya han elegido ese formato puedan contrastar su control con el mando separado de Jovi.
+TOR 3 es otra opción de anillo, esta vez con control por aplicación.
 [Ficha oficial](https://www.lelo.com/tor-3).
 
-Decidan si quieren usar el celular como parte de la experiencia.
-Esa respuesta puede pesar más que el número de programas.
-Lean cómo se ajusta y se retira el anillo.
-No hemos probado su adaptación a distintos cuerpos.
-Si la función conectada no les interesa, no dejen que una promoción la convierta en una necesidad.
-Comparen el sistema con el mando separado de Jovi.
-Son dos formas distintas de control dentro de una categoría que primero debe interesarles a ambos.
+Yo empezaría preguntando si les interesa realmente usar el celular para cambiar ajustes.
+Si la respuesta es no, la conectividad no añade valor a su compra.
+Después comprobaría medidas e instrucciones de colocación.
+La flexibilidad del material no autoriza a describir el anillo como talla universal.
+También distinguiría el diámetro publicado de un supuesto límite máximo de estiramiento.
+Son datos diferentes.
+No hay un precio oficial actual confirmado en esta comparación.
+Mi recomendación queda por tanto centrada en el formato y el control.
+Si buscan una herramienta para compartir contacto sin llevar un anillo, Fin o Touch X responden mejor a esa necesidad que cualquier función de TOR.
 
 ## 9. LELO IDA Wave: rotación y vibración
 
-IDA Wave combina rotación y vibración con control por aplicación, según LELO.
-Es un candidato cuando quieren examinar mecanismos distintos, no simplemente añadir más opciones a una primera compra.
+IDA Wave es una alternativa para quienes quieren combinar rotación interna y vibración.
+La marca también anuncia control por app.
 [Ficha oficial](https://www.lelo.com/ida-wave).
 
-Pregúntense si quieren ese movimiento adicional.
-Si todavía no lo saben, miren cómo funciona antes de comparar el resto.
-El manual debe explicar cómo se controla cada función.
-Una demostración permite ver el movimiento, pero no prueba cómo lo sentirán ustedes.
-No hemos probado ese mecanismo.
-Puede resultar interesante sin ser una mejora para todas las parejas.
-Si prefieren solo vibración, descartar una función extra es una decisión válida.
-La lista sirve para simplificar la compra, no para sumar requisitos.
+Yo no lo presentaría como la siguiente compra obligatoria después de un juguete pequeño.
+Su mecanismo responde a una preferencia concreta.
+La persona que lo lleva debe querer explorar esa forma de movimiento.
+Después pueden decidir quién maneja los ajustes.
+Si todavía están eligiendo entre contacto externo e interno, resolvería primero esa pregunta.
+No hace falta añadir rotación para que un producto sea válido para dos personas.
+Compararía IDA con Sync 2 por el tipo de movimiento, no solo por tener ambos una conexión.
+Y confirmaría el nombre completo con la tienda, porque una referencia parecida puede corresponder a otra generación.
 
 ## 10. LELO SMART WAND 2 Large: un mango largo
 
-Este modelo de LELO es un masajeador wand grande.
-Tiene un mango y un cabezal diferenciados.
-Es otra opción para quienes prefieren sostener el aparato.
+SMART WAND 2 Large es la elección que examinaría para un cabezal amplio con mango largo.
+LELO publica 304 mm de longitud y 383 g de peso.
 [Ficha oficial](https://www.lelo.com/smart-wand-2-large).
 
-Miren las medidas, el peso y el espacio que tienen para guardarlo.
-Después piensen quién va a sostenerlo.
-¿Le atrae un mango largo o prefiere algo pequeño?
-Si una opción compacta ya cumple lo que quieren, no necesitan aumentar el tamaño.
-No lo llamamos el más potente porque no hemos hecho esa medición.
-Lo incluimos por la diferencia de agarre.
-La palabra “pareja” en una caja no puede decidir qué forma les va a gustar más.
+Yo pensaría quién lo sostendrá y desde qué posición.
+Compartir el uso no implica que ambas personas tengan las mismas preferencias de agarre.
+Un mango largo puede resultar útil para alcanzar, mientras el peso puede hacer menos cómodo mantenerlo levantado.
+Esa comparación me parece más profesional que llamarlo potente sin una medición.
+También necesita un espacio de almacenamiento distinto al de Fin.
+No lo elegiría como opción de viaje solo por ser recargable.
+Su razón para estar aquí es ofrecer otra forma de dirigir el contacto.
+Si buscan algo pequeño para sostener entre los dedos, hay candidatos más adecuados en esta selección.
 
 ## Antes de comprar desde Perú
 
@@ -214,3 +249,17 @@ Si prefieren sostener el dispositivo, miren Fin, Pom y Touch X.
 No necesitan adoptar el primer puesto de una lista.
 Necesitan una compra que ambas personas entiendan y quieran hacer.
 Si todavía no están de acuerdo con el formato, pueden dejar la decisión para otro día.
+
+## Envío a Perú y compra sin sorpresas
+
+Yo pediría una cotización para su distrito antes de comparar el gasto final.
+La [política de envíos de SVibe](https://svibe.com/pages/shipping-policy) no enumera Perú como destino.
+No puedo presentar el Jovi como una oferta con entrega directa confirmada.
+Los precios estadounidenses de esta guía son referencias de producto, no precios en soles.
+
+Además del importe, preguntaría qué accesorios vienen incluidos y quién gestiona una incidencia.
+Si un mando requiere pilas, conviene saberlo antes de que llegue el pedido.
+Si usa un cargador específico, interesa comprobar que se puede reemplazar.
+Así entiendo la calidad de compra: características claras y soporte que puedan identificar.
+No hemos hecho ensayos de durabilidad ni damos puntuaciones inventadas.
+Tampoco usamos el género de una persona como sustituto de preguntar qué formato y contacto quiere compartir.
