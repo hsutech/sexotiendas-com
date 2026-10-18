@@ -55,3 +55,7 @@ Canonical research, independent review and publication receipts: `pbns/content/s
 ## Related reading — 18 October 2026
 
 The current product-comparison routes have three curated internal article links beneath their prose. `_article_design/config.json` stores each route’s `relatedArticles`; links remain inside this site and use the article language. The shared renderer leaves source prose and historical pages unchanged. Canonical metadata is in `content/svibe-vs-2026-10-18/manifest.json`; run `python3 work/install-related-articles.py svibe-vs-2026-10-18` from the canonical checkout to install/reapply this block. Normal batch regeneration preserves these selections.
+
+## Favicon coverage — 18 October 2026
+
+All HTML documents reference the existing site favicon. The canonical post-export check is `node work/sync-sexshop-favicons.mjs <site-repositories-root> --missing-only`; it preserves existing icons and skips recovered image endpoints with an HTML filename. The Sexotiendas article generator also includes its icon directly.
