@@ -34,3 +34,7 @@ The 18 October 2026 style revision keeps the same nine-article campaign, origina
 ## SVibe comparison research revision — 18 October 2026
 
 The existing top-ten articles now include individually researched product analysis, attributed external reviewer observations, price and specification tables, regional delivery caveats and official product photography. No hands-on testing is claimed. Canonical sources and research records live in `hsutech/pbns`, `content/svibe-top10-2026-10-17` and `outputs/svibe-deep-review-2026-10-18`.
+
+## Article design — 18 October 2026
+
+The SVibe top-ten routes use the `sexotiendas` editorial composition. Source configuration and portable, dependency-free enhancement live in `_article_design/`. Run `python3 _article_design/apply.py .` after generating HTML (native builders already invoke it). Navigation is keyboard-accessible, contents collapse on mobile, and all article prose and source links are preserved. Only configured article routes are enhanced; the historical catalogue stays unchanged. Canonical installer: `work/install-article-design.py`.

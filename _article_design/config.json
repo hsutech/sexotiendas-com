@@ -1,0 +1,49 @@
+{
+  "family": "sexotiendas",
+  "brand": "Sexotiendas",
+  "logo": "sexo<i>tiendas</i>",
+  "tagline": "Bienestar íntimo, decisiones informadas",
+  "blogLabel": "Guías de Sexotiendas",
+  "footerText": "Guías de bienestar íntimo para entender tus opciones y conversar sobre lo que buscas. Un sitio informativo para adultos.",
+  "nav": [
+    [
+      "Guías",
+      "/blog/"
+    ],
+    [
+      "Categorías",
+      "/#categorias"
+    ],
+    [
+      "Sobre el proyecto",
+      "/#proyecto"
+    ]
+  ],
+  "footer": [
+    [
+      "Todas las guías",
+      "/blog/"
+    ],
+    [
+      "Categorías",
+      "/#categorias"
+    ],
+    [
+      "Sobre el proyecto",
+      "/#proyecto"
+    ],
+    [
+      "Inicio",
+      "/"
+    ]
+  ],
+  "posts": [
+    {
+      "route": "/blog/mejores-juguetes-sexuales-parejas/",
+      "title": "Los 10 mejores juguetes sexuales para parejas según lo que quieren compartir",
+      "language": "es-PE",
+      "siteSource": "content/blog/mejores-juguetes-sexuales-parejas.md"
+    }
+  ],
+  "domain": "sexotiendas.com"
+}
