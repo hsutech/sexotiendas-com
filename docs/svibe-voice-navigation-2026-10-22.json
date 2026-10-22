@@ -10,5 +10,37 @@
     "mobileWidth": 390,
     "desktopWidth": 1280
   },
-  "publication": "pending verification"
+  "publication": {
+    "id": "svibe-vibrador-sin-aplicacion",
+    "domain": "sexotiendas.com",
+    "project": "sexotiendas-com",
+    "title": "¿Te conviene SVibe si buscas un vibrador sin aplicación?",
+    "route": "/blog/svibe-vibrador-sin-aplicacion/",
+    "url": "https://sexotiendas.com/blog/svibe-vibrador-sin-aplicacion/",
+    "repository": "https://github.com/hsutech/sexotiendas-com",
+    "commit": "b989ed3634c1962a2c77071e6d10a1cb835822a3",
+    "deployment": "https://sexotiendas.erikhsu-work.workers.dev",
+    "verifiedAt": "2026-10-22T14:59:32.507358+00:00",
+    "checks": {
+      "http200": true,
+      "h1": true,
+      "canonical": true,
+      "proseMinimum": true,
+      "contentMatches": true,
+      "articleSchema": true,
+      "navigationMatches": true,
+      "navigationAssets": true,
+      "image": true,
+      "favicon": true,
+      "sitemap": true,
+      "blogListing": true
+    },
+    "proseWords": 1582,
+    "finalUrl": "https://sexotiendas.com/blog/svibe-vibrador-sin-aplicacion/",
+    "httpStatus": 200,
+    "htmlSha256": "49cf651d019baa540684f58df908b8e88f040ae82a9f201011aede8af1db1c26",
+    "productionSha256": "facdfe05acf8b7c52e13149f5fada9c67547507f0665e45be958355e5a8189d1",
+    "state": "live_verified",
+    "published": true
+  }
 }

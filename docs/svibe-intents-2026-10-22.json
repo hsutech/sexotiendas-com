@@ -16,7 +16,8 @@
     "type": "guide",
     "client": "Svibe",
     "researchFile": "content/svibe-intents-2026-10-22/research/editorial-ledger.json",
-    "siteSource": "content/blog/svibe-vibrador-sin-aplicacion.md"
+    "siteSource": "content/blog/svibe-vibrador-sin-aplicacion.md",
+    "commit": "b989ed3634c1962a2c77071e6d10a1cb835822a3"
   },
   "validation": {
     "minimumProseWords": 1300,
@@ -244,9 +245,9 @@
     "route": "/blog/svibe-vibrador-sin-aplicacion/",
     "url": "https://sexotiendas.com/blog/svibe-vibrador-sin-aplicacion/",
     "repository": "https://github.com/hsutech/sexotiendas-com",
-    "commit": "387245ea6c71f0532c04271c4e6f737a75d02a79",
+    "commit": "b989ed3634c1962a2c77071e6d10a1cb835822a3",
     "deployment": "https://sexotiendas.erikhsu-work.workers.dev",
-    "verifiedAt": "2026-10-22T14:04:50.070681+00:00",
+    "verifiedAt": "2026-10-22T14:59:32.507358+00:00",
     "checks": {
       "http200": true,
       "h1": true,
@@ -254,16 +255,18 @@
       "proseMinimum": true,
       "contentMatches": true,
       "articleSchema": true,
+      "navigationMatches": true,
+      "navigationAssets": true,
       "image": true,
       "favicon": true,
       "sitemap": true,
       "blogListing": true
     },
-    "proseWords": 1437,
+    "proseWords": 1582,
     "finalUrl": "https://sexotiendas.com/blog/svibe-vibrador-sin-aplicacion/",
     "httpStatus": 200,
-    "htmlSha256": "81fcc7db97eeec31584beb45b7afd0e205edf1f7c3246974fa822946539f8dfe",
-    "productionSha256": "b62e778599355035622532d7309db493a7bccfb0d2eec1a3e5480cd02af4530d",
+    "htmlSha256": "49cf651d019baa540684f58df908b8e88f040ae82a9f201011aede8af1db1c26",
+    "productionSha256": "facdfe05acf8b7c52e13149f5fada9c67547507f0665e45be958355e5a8189d1",
     "state": "live_verified",
     "published": true
   }
