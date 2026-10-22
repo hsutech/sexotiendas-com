@@ -1,0 +1,239 @@
+{
+  "batch": "svibe-intents-2026-10-22",
+  "article": {
+    "id": "svibe-vibrador-sin-aplicacion",
+    "domain": "sexotiendas.com",
+    "project": "sexotiendas-com",
+    "language": "es",
+    "title": "¿Te conviene SVibe si buscas un vibrador sin aplicación?",
+    "route": "/blog/svibe-vibrador-sin-aplicacion/",
+    "sourceFile": "content/svibe-intents-2026-10-22/svibe-vibrador-sin-aplicacion.md",
+    "state": "draft",
+    "date": "2026-10-22",
+    "description": "Curve, Jovi y Twinn sin depender del teléfono: compara botones, mando físico, variantes y condiciones de compra desde Perú.",
+    "author": "Equipo editorial de Sexotiendas",
+    "svibe": "jovi",
+    "type": "guide",
+    "client": "Svibe",
+    "researchFile": "content/svibe-intents-2026-10-22/research/editorial-ledger.json",
+    "siteSource": "content/blog/svibe-vibrador-sin-aplicacion.md"
+  },
+  "validation": {
+    "minimumProseWords": 1300,
+    "localHtmlAudit": "passed",
+    "independentEditorialReview": "passed with related-link and navbar fixes",
+    "publication": "not yet verified"
+  },
+  "sources": {
+    "checkedAt": "2026-10-22",
+    "method": "Official specifications, current search results and attributed purchaser observations; no hands-on testing",
+    "sources": [
+      {
+        "url": "https://svibe.com/products/female-vibrator-curve-svibe",
+        "facts": [
+          "149 USD listed",
+          "two motors independently controlled",
+          "moving external shell"
+        ],
+        "observation": "Seller-hosted Rachel Szmyd review mentions learning curve; individual opinion"
+      },
+      {
+        "url": "https://svibe.com/products/snail-twinn-us-intl",
+        "facts": [
+          "89 USD",
+          "Lilac and Teal app enabled; Cherry without app",
+          "magnetic charging approximately two hours",
+          "two motors"
+        ]
+      },
+      {
+        "url": "https://svibe.com/products/svibe-snail-jovi-couples-ring",
+        "facts": [
+          "69 USD",
+          "physical remote included",
+          "ring format",
+          "two motors"
+        ],
+        "limits": "No claim of market dominance or universal fit"
+      },
+      {
+        "url": "https://svibe.com/pages/faq",
+        "facts": [
+          "1–2 business day processing",
+          "orders cannot be cancelled or modified according to published FAQ",
+          "no freight forwarding addresses"
+        ],
+        "conflict": "Sitewide free shipping banner and 129 USD cart threshold differ; confirm actual checkout"
+      },
+      {
+        "url": "https://www.trustpilot.com/review/svibe.com",
+        "observations": [
+          "ZEB October4 praises issue handling",
+          "M September14 praises design and delivery",
+          "negative experiences also reported: movement, insufficient intensity, shipping"
+        ],
+        "limits": "Self-selected reviews; neither population survey nor proof of every purchase"
+      },
+      {
+        "url": "https://dame.com/products/pom",
+        "facts": [
+          "103 USD",
+          "5 intensities",
+          "separate power/pattern and intensity buttons",
+          "current specification USB-C, 5V adapter, dry before charging"
+        ]
+      },
+      {
+        "url": "https://www.we-vibe.com/us/tango-x",
+        "facts": [
+          "from85USD",
+          "8 intensities7patterns",
+          "travel lock deactivates after charging",
+          "IPX7"
+        ]
+      },
+      {
+        "url": "https://care.we-vibe.com/s/article/why-wont-my-product-charge?language=en_US",
+        "facts": [
+          "check cable connections and power source",
+          "manufacturer-specific contact-cleaning guidance",
+          "contact support if unresolved"
+        ],
+        "limits": "Do not transfer alcohol cleaning or reset combinations to other brands"
+      },
+      {
+        "url": "https://boners.com.mx/tiendas",
+        "facts": [
+          "ToLove Tlalpan at Calzada de Tlalpan1263 LocalA",
+          "online and physical routes separated"
+        ],
+        "limits": "No checked local Svibe stock"
+      },
+      {
+        "url": "https://www.trustpilot.com/review/svibe.com",
+        "observations": [
+          "Jade Oct20: support/refund after defect",
+          "Danika Oct20: Curve cleaning crevice concern",
+          "Brianne Miller Oct18: Jovi tight fit, slipping, remote issues",
+          "Shawn Rogers Oct19: positive fit and remote",
+          "Cindy-Marie Leicester Oct16: slow automated replacement support"
+        ],
+        "limits": "Self-selected individual reports, not verified testing or market-wide sentiment"
+      },
+      {
+        "url": "https://sextechguide.com/reviews/devices/svibe-snail-jovi-review/",
+        "observations": [
+          "Almaz O independent review: convenient remote, repositioning and high-setting noise; no app; IPX6"
+        ],
+        "limits": "Attributed external test, not publisher hands-on"
+      },
+      {
+        "url": "https://www.bbb.org/scamtracker/lookupscam/1296952",
+        "observations": [
+          "May20 purchaser report of delayed order and communication difficulties"
+        ],
+        "limits": "Unadjudicated self-report; does not establish fraud"
+      },
+      {
+        "url": "https://www.lovense.com/rabbit-vibrator",
+        "facts": [
+          "Rotation and external vibration, app remote connectivity",
+          "Page lists conflicting 109 and 199 USD amounts; no firm price used",
+          "Seller-hosted reviews mention remote connection and noise at higher settings",
+          "One-year warranty advertised"
+        ],
+        "limits": "Version-dependent runtime and waterproof claims conflict; avoided"
+      },
+      {
+        "url": "https://svibe.com/pages/faq",
+        "facts": [
+          "Listed destinations USA, Canada, Australia, UK, New Zealand; no verified Mexico, Brazil, Peru, Colombia or Vietnam shipping",
+          "US 5–7 business day shipping and 1–2 preparation",
+          "International 5–24 business days plus potential remote-area delay",
+          "US final-sale policy; EU/UK provisions subject to exclusions"
+        ],
+        "limits": "Published policy summary, not legal advice; checkout not tested"
+      },
+      {
+        "url": "https://loveshops.mx/",
+        "facts": [
+          "Baby Rose mini and Roomie Rabbit observed 799 MXN each"
+        ],
+        "limits": "Observed prices, not purchase or stock verification"
+      },
+      {
+        "url": "https://priscila.com.mx/",
+        "facts": [
+          "Two Centro Historico locations and one Estado de Mexico location listed"
+        ],
+        "limits": "No Svibe stock confirmed"
+      },
+      {
+        "url": "https://www.faa.gov/hazmat/packsafe/portable-electronic-devices-with-batteries",
+        "facts": [
+          "Carry-on recommended; checked devices fully off/protected; spares carry-on; damaged/recalled batteries excluded"
+        ],
+        "limits": "US rules; destination and airline must be checked"
+      },
+      {
+        "url": "https://www.we-vibe.com/us/tango-x",
+        "facts": [
+          "9.98 × 2.29 × 2.43 cm; up to two hours runtime; travel lock"
+        ]
+      },
+      {
+        "url": "https://www.lelo.com/lily-3",
+        "facts": [
+          "39 × 34 × 74 mm; 45 g"
+        ]
+      },
+      {
+        "url": "https://us.satisfyer.com/us/satisfyer-pro-2-generation-3",
+        "facts": [
+          "47.97 USD promotion observed, unavailable"
+        ],
+        "limits": "Not an in-stock offer"
+      },
+      {
+        "url": "https://pleasurebetter.com/wearable-vibrators/reviews/best/hands-free-couples-vibrators/",
+        "observations": [
+          "Kate Williams Oct13: Chorus adjustment and remote advantages, app issues"
+        ],
+        "limits": "Attributed independent review"
+      },
+      {
+        "url": "https://www.we-vibe.com/us/sync-2",
+        "facts": [
+          "Official Sync 2 route; adjustable app-enabled couples device"
+        ]
+      },
+      {
+        "url": "https://en.funfactory.com/products/miss-bi",
+        "facts": [
+          "Official Miss Bi source; dual design"
+        ]
+      }
+    ],
+    "editorialRules": [
+      "Unique intent and prose for each article",
+      "Rankings are editorial shortlists, no fabricated test rankings",
+      "No unverified Mexican or Brazilian stock",
+      "USD observations are not local delivered prices",
+      "Photographs identify manufacturer, not own test",
+      "Preserve existing layouts"
+    ],
+    "searches": [
+      "Svibe reviews Snail Jovi Twinn Curve shipping",
+      "best vibrators beginners We Vibe Tango X Dame Pom",
+      "We Vibe Chorus alternatives couples vibrators",
+      "sex shop Ciudad de Mexico tiendas sucursales Erotika",
+      "vibrador preço Brasil iniciantes casais vale a pena",
+      "vibrador no carga We Vibe troubleshooting",
+      "SVibe giá Việt Nam đánh giá",
+      "SVibe vs Lovense Nora",
+      "best vibrators travel lock TSA",
+      "vibrador Mexico precios We Vibe Tango",
+      "melhores marcas vibradores baratos SVibe opiniões"
+    ]
+  }
+}

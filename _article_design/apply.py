@@ -72,6 +72,7 @@ def render(page, cfg, post, values, css, js):
     t = dict(LABELS[lang])
     if post.get('comparisonCount') == 2:
         t['compare'] = {'en':'Compare both models','es':'Comparar los dos modelos','pt':'Comparar os dois modelos','vi':'So sánh hai mẫu'}[lang]
+    t['compare'] = post.get('compareLabel', t['compare'])
     family = cfg['family']
     body, photo = extract(page)
     headings = re.findall(r'<h2 id="([^"]+)">(.*?)</h2>', body, re.S)
