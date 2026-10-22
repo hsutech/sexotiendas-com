@@ -8,7 +8,7 @@
     "title": "¿Te conviene SVibe si buscas un vibrador sin aplicación?",
     "route": "/blog/svibe-vibrador-sin-aplicacion/",
     "sourceFile": "content/svibe-intents-2026-10-22/svibe-vibrador-sin-aplicacion.md",
-    "state": "draft",
+    "state": "published",
     "date": "2026-10-22",
     "description": "Curve, Jovi y Twinn sin depender del teléfono: compara botones, mando físico, variantes y condiciones de compra desde Perú.",
     "author": "Equipo editorial de Sexotiendas",
@@ -22,7 +22,7 @@
     "minimumProseWords": 1300,
     "localHtmlAudit": "passed",
     "independentEditorialReview": "passed with related-link and navbar fixes",
-    "publication": "not yet verified"
+    "publication": "live_verified"
   },
   "sources": {
     "checkedAt": "2026-10-22",
@@ -235,5 +235,36 @@
       "vibrador Mexico precios We Vibe Tango",
       "melhores marcas vibradores baratos SVibe opiniões"
     ]
+  },
+  "publication": {
+    "id": "svibe-vibrador-sin-aplicacion",
+    "domain": "sexotiendas.com",
+    "project": "sexotiendas-com",
+    "title": "¿Te conviene SVibe si buscas un vibrador sin aplicación?",
+    "route": "/blog/svibe-vibrador-sin-aplicacion/",
+    "url": "https://sexotiendas.com/blog/svibe-vibrador-sin-aplicacion/",
+    "repository": "https://github.com/hsutech/sexotiendas-com",
+    "commit": "387245ea6c71f0532c04271c4e6f737a75d02a79",
+    "deployment": "https://sexotiendas.erikhsu-work.workers.dev",
+    "verifiedAt": "2026-10-22T14:04:50.070681+00:00",
+    "checks": {
+      "http200": true,
+      "h1": true,
+      "canonical": true,
+      "proseMinimum": true,
+      "contentMatches": true,
+      "articleSchema": true,
+      "image": true,
+      "favicon": true,
+      "sitemap": true,
+      "blogListing": true
+    },
+    "proseWords": 1437,
+    "finalUrl": "https://sexotiendas.com/blog/svibe-vibrador-sin-aplicacion/",
+    "httpStatus": 200,
+    "htmlSha256": "81fcc7db97eeec31584beb45b7afd0e205edf1f7c3246974fa822946539f8dfe",
+    "productionSha256": "b62e778599355035622532d7309db493a7bccfb0d2eec1a3e5480cd02af4530d",
+    "state": "live_verified",
+    "published": true
   }
 }
