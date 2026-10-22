@@ -42,7 +42,7 @@ def related_section(post, labels):
         seen.add(route)
         description = f'<p>{esc(item["description"])}</p>' if item.get('description') else ''
         cards.append(f'<a class="j-related-card" href="{esc(route, quote=True)}"><h3>{esc(item["title"])}</h3>{description}</a>')
-    return f'<section class="j-onward j-related" aria-labelledby="related-reading"><h2 id="related-reading">{title}</h2><nav class="j-related-grid" aria-label="{title}">{"".join(cards)}</nav><div class="j-related-back">{link(labels["back"], "/blog/")}</div></section>'
+    return f'<section class="j-onward j-related" aria-labelledby="related-articles-bottom"><h2 id="related-articles-bottom">{title}</h2><nav class="j-related-grid" aria-label="{title}">{"".join(cards)}</nav><div class="j-related-back">{link(labels["back"], "/blog/")}</div></section>'
 
 def meta(path):
     front = path.read_text().split('---\n', 2)[1]

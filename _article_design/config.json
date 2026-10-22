@@ -97,7 +97,24 @@
       "title": "¿Te conviene SVibe si buscas un vibrador sin aplicación?",
       "language": "es",
       "siteSource": "content/blog/svibe-vibrador-sin-aplicacion.md",
-      "compareLabel": "Ver el resumen"
+      "compareLabel": "Ver el resumen",
+      "relatedArticles": [
+        {
+          "route": "/blog/mejores-juguetes-sexuales-parejas/",
+          "title": "Los 10 mejores juguetes sexuales para parejas según lo que quieren compartir",
+          "description": "Compara diez juguetes para parejas por formato, manejo y control, con SVibe Snail Jovi y opciones externas, duales y de mano para distintos usos."
+        },
+        {
+          "route": "/blog/svibe-jovi-vs-we-vibe-sync-2/",
+          "title": "SVibe Snail Jovi vs We-Vibe Sync 2: ¿cuál merece la pena?",
+          "description": "Jovi vs Sync 2: anillo o formato interno y externo, mando o app, opiniones de compradores y puntos de compra desde Perú."
+        },
+        {
+          "route": "/blog/svibe-curve-vs-happy-rabbit-slimline-realistic/",
+          "title": "SVibe Snail Curve vs Happy Rabbit Slimline Realistic: ¿cuál merece la pena?",
+          "description": "Curve y Happy Rabbit Slimline Realistic: formas, motores separados, opiniones y precios, con comprobaciones para comprar desde Perú."
+        }
+      ]
     }
   ],
   "domain": "sexotiendas.com"
