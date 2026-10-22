@@ -22,7 +22,7 @@ LABELS = {
 def link(label, href, active=False):
     if not href.startswith('/') or href.startswith('//'):
         raise ValueError('Chrome links must be internal')
-    current = ' aria-current="page"' if active else ''
+    current = ' aria-current="location"' if active else ''
     return f'<a href="{esc(href, quote=True)}"{current}>{esc(label)}</a>'
 
 def related_section(post, labels):
@@ -115,7 +115,9 @@ def render(page, cfg, post, values, css, js):
         onward = related_section(post, t)
     main = f'<main class="j-main" id="main"><div class="j-container"><div class="j-breadcrumb">{link(cfg["blogLabel"], "/blog/")}<span aria-hidden="true">/</span><span>{t["guide"]}</span></div>{hero}{reading}{onward}</div></main>'
     footlinks = ''.join(link(label, href) for label, href in cfg['footer'])
-    footer = f'<footer class="j-footer"><div class="j-footer-inner"><div class="j-footer-brand"><a class="j-brand" href="/">{logo}</a><p>{esc(cfg["footerText"])}</p></div><div class="j-footer-links"><h2>{t["explore"]}</h2><nav aria-label="{t["about"]}">{footlinks}</nav></div><a class="j-top" href="#page-top">{t["top"]} ↑</a><div class="j-footer-bottom"><p>© 2026 {esc(cfg["brand"])}</p><p>{t["legal"]}</p></div></div></footer>'
+    reading_links = ''.join(link(x['title'], x['route']) for x in cfg['posts'][-3:])
+    reading_title = {'en':'Latest reading','es':'Últimas lecturas','pt':'Últimas leituras','vi':'Bài viết mới'}[lang]
+    footer = f'<footer class="j-footer"><div class="j-footer-inner"><div class="j-footer-brand"><a class="j-brand" href="/">{logo}</a><p>{esc(cfg["footerText"])}</p></div><div class="j-footer-links"><h2>{t["explore"]}</h2><nav aria-label="{t["about"]}">{footlinks}</nav></div><div class="j-footer-reading"><h2>{reading_title}</h2><nav aria-label="{reading_title}">{reading_links}</nav></div><a class="j-top" href="#page-top">{t["top"]} ↑</a><div class="j-footer-bottom"><p>© 2026 {esc(cfg["brand"])}</p><p>{t["legal"]}</p></div></div></footer>'
     page = re.sub(r'<body([^>]*)>', '<body class="j-page j-'+family+'" id="page-top">', page, count=1)
     # Replace existing skip links with a single reliable destination.
     page = re.sub(r'<a class="(?:skip|op-skip|j-skip)"[^>]*>.*?</a>', '', page, flags=re.S)
