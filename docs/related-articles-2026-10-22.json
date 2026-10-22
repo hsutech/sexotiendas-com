@@ -3,5 +3,40 @@
   "revision": "Curated same-site related reading cards below the article",
   "proseUnchanged": true,
   "validation": "39 related links across15currentarticles; local destinations, titles and canonicals verified; independent review passed; browser computed layout fits390px",
-  "publication": "pending"
+  "publication": {
+    "id": "svibe-vibrador-sin-aplicacion",
+    "domain": "sexotiendas.com",
+    "project": "sexotiendas-com",
+    "title": "¿Te conviene SVibe si buscas un vibrador sin aplicación?",
+    "route": "/blog/svibe-vibrador-sin-aplicacion/",
+    "url": "https://sexotiendas.com/blog/svibe-vibrador-sin-aplicacion/",
+    "repository": "https://github.com/hsutech/sexotiendas-com",
+    "commit": "f6f46f5f39d2ed3eda54f2f0d5384f821c697ef7",
+    "deployment": "https://sexotiendas.erikhsu-work.workers.dev",
+    "verifiedAt": "2026-10-22T16:17:35.626703+00:00",
+    "checks": {
+      "http200": true,
+      "h1": true,
+      "canonical": true,
+      "proseMinimum": true,
+      "contentMatches": true,
+      "articleSchema": true,
+      "relatedArticles": true,
+      "relatedDestinations": true,
+      "relatedStyles": true,
+      "navigationMatches": true,
+      "navigationAssets": true,
+      "image": true,
+      "favicon": true,
+      "sitemap": true,
+      "blogListing": true
+    },
+    "proseWords": 1582,
+    "finalUrl": "https://sexotiendas.com/blog/svibe-vibrador-sin-aplicacion/",
+    "httpStatus": 200,
+    "htmlSha256": "2684849e74c21e7da953304235da283e7a07d59d44147a24b13e6911b294f4db",
+    "productionSha256": "3ca5c3e52f562ae71a7315d6fe1d87aed91d7628cfeb3bd501323947b94e6d2d",
+    "state": "live_verified",
+    "published": true
+  }
 }
