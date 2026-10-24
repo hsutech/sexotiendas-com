@@ -39,12 +39,6 @@
   ],
   "posts": [
     {
-      "route": "/blog/mejores-juguetes-sexuales-parejas/",
-      "title": "Los 10 mejores juguetes sexuales para parejas según lo que quieren compartir",
-      "language": "es-PE",
-      "siteSource": "content/blog/mejores-juguetes-sexuales-parejas.md"
-    },
-    {
       "route": "/blog/svibe-curve-vs-happy-rabbit-slimline-realistic/",
       "title": "SVibe Snail Curve vs Happy Rabbit Slimline Realistic: ¿cuál merece la pena?",
       "language": "es-PE",
@@ -113,6 +107,29 @@
           "route": "/blog/svibe-curve-vs-happy-rabbit-slimline-realistic/",
           "title": "SVibe Snail Curve vs Happy Rabbit Slimline Realistic: ¿cuál merece la pena?",
           "description": "Curve y Happy Rabbit Slimline Realistic: formas, motores separados, opiniones y precios, con comprobaciones para comprar desde Perú."
+        }
+      ]
+    },
+    {
+      "route": "/blog/mejores-juguetes-sexuales-parejas/",
+      "title": "Los 10 mejores juguetes sexuales para parejas según lo que quieren compartir",
+      "language": "es",
+      "siteSource": "content/blog/mejores-juguetes-sexuales-parejas.md",
+      "relatedArticles": [
+        {
+          "title": "Jovi frente a Sync 2",
+          "route": "/blog/svibe-jovi-vs-we-vibe-sync-2/",
+          "description": "Anillo con mando o diseño dual con aplicación."
+        },
+        {
+          "title": "SVibe sin aplicación",
+          "route": "/blog/svibe-vibrador-sin-aplicacion/",
+          "description": "Opciones para dejar el teléfono a un lado."
+        },
+        {
+          "title": "Opiniones sobre SVibe",
+          "route": "/blog/opiniones-svibe/",
+          "description": "Qué revisar sobre la marca antes de comprar."
         }
       ]
     }
