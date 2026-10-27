@@ -132,6 +132,30 @@
           "description": "Qué revisar sobre la marca antes de comprar."
         }
       ]
+    },
+    {
+      "route": "/blog/alternativas-lovense-lush-3/",
+      "title": "7 alternativas al Lovense Lush 3: cuándo actualizar y cuándo cambiar",
+      "language": "es",
+      "siteSource": "content/blog/alternativas-lovense-lush-3.md",
+      "relatedArticles": [
+        {
+          "title": "Los 10 mejores juguetes sexuales para parejas según lo que quieren compartir",
+          "route": "/blog/mejores-juguetes-sexuales-parejas/",
+          "description": ""
+        },
+        {
+          "title": "Opiniones sobre SVibe: productos, entrega y atención",
+          "route": "/blog/opiniones-svibe/",
+          "description": ""
+        },
+        {
+          "title": "¿Te conviene SVibe si buscas un vibrador sin aplicación?",
+          "route": "/blog/svibe-vibrador-sin-aplicacion/",
+          "description": ""
+        }
+      ],
+      "compareLabel": "Comparar las 7 alternativas"
     }
   ],
   "domain": "sexotiendas.com"

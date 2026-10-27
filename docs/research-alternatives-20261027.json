@@ -1,0 +1,147 @@
+{
+  "article": {
+    "id": "alternativas-lovense-lush-3",
+    "domain": "sexotiendas.com",
+    "language": "es",
+    "title": "7 alternativas al Lovense Lush 3: cuándo actualizar y cuándo cambiar",
+    "uniqueAngle": "Existing Lush3 owner replacement; keep working device unless material constraint solved.",
+    "minWords": 1300
+  },
+  "checked_at": "2026-10-27",
+  "intent": "Model-specific alternatives for an adult comparing features; no claim of personal testing",
+  "sources": [
+    {
+      "id": "lush3",
+      "url": "https://www.lovense.com/bluetooth-remote-control-vibrator",
+      "kind": "official manufacturer or official regional distributor",
+      "capture": "research/captures/lush3.evidence.json"
+    },
+    {
+      "id": "lush4",
+      "url": "https://www.lovense.com/lush-4-best-bluetooth-remote-controlled-g-spot-vibrator",
+      "kind": "official manufacturer or official regional distributor",
+      "capture": "research/captures/lush4.evidence.json"
+    },
+    {
+      "id": "twinn",
+      "url": "https://svibe.com/products/snail-twinn-us-intl",
+      "kind": "official manufacturer or official regional distributor",
+      "capture": "research/captures/twinn.txt"
+    },
+    {
+      "id": "nora",
+      "url": "https://www.lovense.com/rabbit-vibrator",
+      "kind": "official manufacturer or official regional distributor",
+      "capture": "research/captures/nora.evidence.json"
+    },
+    {
+      "id": "jive",
+      "url": "https://www.we-vibe.com/us/jive-2",
+      "kind": "official manufacturer or official regional distributor",
+      "capture": "research/captures/jive.txt"
+    },
+    {
+      "id": "lushmini",
+      "url": "https://www.lovense.com/lush-mini-remote-control-g-spot-vibrator",
+      "kind": "official manufacturer or official regional distributor",
+      "capture": "research/captures/lushmini.evidence.json"
+    },
+    {
+      "id": "nova",
+      "url": "https://www.we-vibe.com/us/nova2",
+      "kind": "official manufacturer or official regional distributor",
+      "capture": "research/captures/nova.txt"
+    },
+    {
+      "id": "chorus",
+      "url": "https://www.we-vibe.com/us/chorus-pro",
+      "kind": "official manufacturer or official regional distributor",
+      "capture": "research/captures/chorus.txt"
+    }
+  ],
+  "claims": {
+    "verified": [
+      {
+        "source": "https://www.lovense.com/bluetooth-remote-control-vibrator",
+        "evidence": "research/captures/lush3.evidence.json",
+        "scope": "Product mechanism, controls and stated specification/price cited in the corresponding article section; dated regional snapshot, not a universal offer."
+      },
+      {
+        "source": "https://www.lovense.com/lush-4-best-bluetooth-remote-controlled-g-spot-vibrator",
+        "evidence": "research/captures/lush4.evidence.json",
+        "scope": "Product mechanism, controls and stated specification/price cited in the corresponding article section; dated regional snapshot, not a universal offer."
+      },
+      {
+        "source": "https://svibe.com/products/snail-twinn-us-intl",
+        "evidence": "research/captures/twinn.txt",
+        "scope": "Product mechanism, controls and stated specification/price cited in the corresponding article section; dated regional snapshot, not a universal offer."
+      },
+      {
+        "source": "https://www.lovense.com/rabbit-vibrator",
+        "evidence": "research/captures/nora.evidence.json",
+        "scope": "Product mechanism, controls and stated specification/price cited in the corresponding article section; dated regional snapshot, not a universal offer."
+      },
+      {
+        "source": "https://www.we-vibe.com/us/jive-2",
+        "evidence": "research/captures/jive.txt",
+        "scope": "Product mechanism, controls and stated specification/price cited in the corresponding article section; dated regional snapshot, not a universal offer."
+      },
+      {
+        "source": "https://www.lovense.com/lush-mini-remote-control-g-spot-vibrator",
+        "evidence": "research/captures/lushmini.evidence.json",
+        "scope": "Product mechanism, controls and stated specification/price cited in the corresponding article section; dated regional snapshot, not a universal offer."
+      },
+      {
+        "source": "https://www.we-vibe.com/us/nova2",
+        "evidence": "research/captures/nova.txt",
+        "scope": "Product mechanism, controls and stated specification/price cited in the corresponding article section; dated regional snapshot, not a universal offer."
+      },
+      {
+        "source": "https://www.we-vibe.com/us/chorus-pro",
+        "evidence": "research/captures/chorus.txt",
+        "scope": "Product mechanism, controls and stated specification/price cited in the corresponding article section; dated regional snapshot, not a universal offer."
+      }
+    ],
+    "external_observations": [
+      {
+        "source": "https://svibe.com/products/snail-twinn-us-intl",
+        "observation": "Maybelle Gruber praises different sensation; Dominika reports slipping/awkward handling; seller-hosted, not independently verified.",
+        "kind": "attributed seller-hosted buyer comment"
+      }
+    ],
+    "editorial_inferences": [
+      "Existing Lush3 owner replacement; keep working device unless material constraint solved."
+    ],
+    "firsthand_evidence": []
+  },
+  "conflicts": [
+    "Currency, stock, promotions and delivery depend on region/variant; no guaranteed cross-border total or deadline.",
+    "SVibe placement is commissioned editorial selection and conditional on the stated use case. No personal test evidence.",
+    "Twinn app connectivity applies only to Lilac and Teal; Cherry must not inherit app claims."
+  ],
+  "must_not_claim": [
+    "Personal or spouse use",
+    "Population-wide popularity",
+    "Equivalent power from RPM or motor count",
+    "Universal shipping deadline",
+    "Cross-category functional equivalence"
+  ],
+  "disclosure": "Commissioned Svibe editorial comparison; placement is a use-case recommendation, not an independent test award.",
+  "serp": {
+    "review": "Independent inventory review completed; model intent distinct from generic brand and bilateral comparisons."
+  },
+  "image_plan": {
+    "subject": "twinn",
+    "source": "https://svibe.com/products/snail-twinn-us-intl",
+    "usage": "Official supplied product photograph from existing campaign assets or product page; credit retained; no people or use depiction."
+  },
+  "state": "reviewed",
+  "review": {
+    "independentAgent": "article_review",
+    "date": "2026-10-27",
+    "result": "Passed after specific attribution and Portuguese grip terminology corrections; no duplicate paragraphs across twelve drafts."
+  },
+  "publication": {
+    "state": "not_yet_deployed"
+  }
+}
