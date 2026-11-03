@@ -156,6 +156,25 @@
         }
       ],
       "compareLabel": "Comparar las 7 alternativas"
+    },
+    {
+      "route": "/blog/svibe-snail-jovi-opiniones/",
+      "title": "SVibe Snail Jovi: mi análisis del ajuste, el mando y las opiniones",
+      "language": "es",
+      "siteSource": "content/blog/svibe-snail-jovi-opiniones.md",
+      "compareLabel": "Leer el análisis",
+      "relatedArticles": [
+        {
+          "title": "¿Te conviene SVibe si buscas un vibrador sin aplicación?",
+          "route": "/blog/svibe-vibrador-sin-aplicacion/",
+          "description": ""
+        },
+        {
+          "title": "7 alternativas al Lovense Lush 3: cuándo actualizar y cuándo cambiar",
+          "route": "/blog/alternativas-lovense-lush-3/",
+          "description": ""
+        }
+      ]
     }
   ],
   "domain": "sexotiendas.com"

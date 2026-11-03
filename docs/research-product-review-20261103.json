@@ -1,0 +1,77 @@
+{
+  "article": {
+    "title": "SVibe Snail Jovi: mi análisis del ajuste, el mando y las opiniones",
+    "domain": "sexotiendas.com",
+    "language": "es",
+    "primaryKeyword": "SVibe Snail Jovi review",
+    "intent": "Single-product purchase decision",
+    "uniqueAngle": "Fit and alignment first: two motors, remote control, and when a ring requires repositioning.",
+    "minimumWords": 1300
+  },
+  "checkedAt": "2026-11-03",
+  "source": {
+    "id": "snail-jovi",
+    "name": "SVibe Snail Jovi",
+    "url": "https://svibe.com/products/svibe-snail-jovi-couples-ring",
+    "keyword": "SVibe Snail Jovi review",
+    "angle": "Fit and alignment first: two motors, remote control, and when a ring requires repositioning.",
+    "factsObserved": [
+      "Two motors",
+      "Five speeds and three modes",
+      "Remote control",
+      "Listed ring diameters 30 and 50 mm",
+      "Collection purchase price USD 65"
+    ],
+    "conflicts": [
+      "Do not convert local remote control into app or long-distance control",
+      "Product page and bundle use different noise claims",
+      "Testimonials overlap with Arc and author attribution varies between pages; exclude duplicated testimonials"
+    ],
+    "externalSources": [
+      {
+        "url": "https://sextechguide.com/reviews/devices/svibe-snail-jovi-review/",
+        "type": "reviewer_original_experience",
+        "access": "opened",
+        "use": "Almaz O reports easy controls but repositioning and more buzzy higher settings; attributed experience, not a universal outcome"
+      },
+      {
+        "url": "https://www.cirillas.com/luxury-sex-toys/svibe-snail-jovi-dual-couples-stimulator/",
+        "type": "retailer_buyer_review",
+        "access": "search_discovered_not_yet_opened"
+      }
+    ]
+  },
+  "claims": {
+    "firsthand_evidence": [],
+    "editorial_inferences": [
+      "Purchase verdict and use-case comparisons are explicitly framed as analysis, not testing"
+    ]
+  },
+  "must_not_claim": [
+    "Personal use or independent tests by this publication",
+    "Universal favorite or guaranteed fit",
+    "Unsupported shipping to destination country",
+    "Cross-model review averages"
+  ],
+  "outline": [
+    "Decision and reader fit",
+    "Exact model and practical features",
+    "Independent and buyer observations with attribution",
+    "Comparison of buying choices",
+    "Ownership cost, care and delivery questions",
+    "Specific verdict and related reading"
+  ],
+  "independentReview": {
+    "reviewer": "review_svibe_products",
+    "date": "2026-11-03",
+    "result": "Passed with factual attribution and language corrections applied",
+    "firsthandClaims": false
+  },
+  "verifiedSourcesInDraft": [
+    "https://svibe.com/products/svibe-snail-jovi-couples-ring",
+    "https://sextechguide.com/reviews/devices/svibe-snail-jovi-review/",
+    "https://svibe.com/products/snail-jovi-arc",
+    "https://sextechguide.com/reviews/devices/svibe-snail-jovi-arc-review/",
+    "https://svibe.com/pages/faq"
+  ]
+}
