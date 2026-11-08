@@ -1,0 +1,88 @@
+{
+  "article": {
+    "product": "Happy Rabbit Slimline Realistic",
+    "keyword": "Happy Rabbit Slimline Realistic opiniones",
+    "language": "es",
+    "intent": "Individual model assessment; purchase fit and limitations rather than a ranking or versus article",
+    "checked_at": "2026-11-08",
+    "existingRelatedUrl": "https://sexotiendas.com/blog/svibe-curve-vs-happy-rabbit-slimline-realistic/"
+  },
+  "brief": {
+    "uniqueAngle": "Qué significa Slimline y cómo leer correctamente sus modos y medidas",
+    "destination": "sexotiendas.com",
+    "minimumWords": 1300,
+    "imagePlan": "Exact model official product photograph, attributed; historical image checked against current model",
+    "disclosure": "Commissioned SVibe campaign; documentary analysis; no physical testing"
+  },
+  "sources": [
+    {
+      "url": "https://www.lovehoney.com/sex-toys/vibrators/rabbit-vibrators/p/happy-rabbit-slimline-realistic-rechargeable-rabbit-vibrator/a39951g73134.html",
+      "kind": "official manufacturer or identified official distributor",
+      "supports": [
+        "Product 73134; silicone; submersible rating",
+        "Two-button independent motor control",
+        "Shaft: 3 speeds and 9 patterns; ears: 3 speeds",
+        "5 inch insertable length and 4.25 inch circumference; 150 minute charge, advertised 120 minute runtime"
+      ]
+    },
+    {
+      "url": "https://svibe.com/products/female-vibrator-curve-svibe",
+      "kind": "official SVibe product page",
+      "supports": [
+        "Alternative mechanism and controls; not equivalent to competitor model"
+      ]
+    }
+  ],
+  "claims": {
+    "verified": [
+      "Product 73134; silicone; submersible rating",
+      "Two-button independent motor control",
+      "Shaft: 3 speeds and 9 patterns; ears: 3 speeds",
+      "5 inch insertable length and 4.25 inch circumference; 150 minute charge, advertised 120 minute runtime"
+    ],
+    "external_observations": [],
+    "editorial_inferences": [
+      "Qué significa Slimline y cómo leer correctamente sus modos y medidas"
+    ],
+    "firsthand_evidence": []
+  },
+  "conflicts": [],
+  "must_not_claim": [
+    "Firsthand testing",
+    "Guaranteed fit, silence, performance or outcomes",
+    "Current local prices, stock, delivery or warranty without market-specific verification",
+    "Svibe has the same mechanism or functions as the reviewed competitor"
+  ],
+  "serp": {
+    "checkedAt": "2026-11-08",
+    "query": "Happy Rabbit Slimline Realistic review",
+    "patterns": [
+      "Manufacturer descriptions, retailer listings and experiential reviews",
+      "Generation-specific functions require checking exact SKU"
+    ],
+    "gap": "Qué significa Slimline y cómo leer correctamente sus modos y medidas"
+  },
+  "editorialChecks": {
+    "exactModel": true,
+    "firsthandTestingClaimed": false,
+    "commercialRelationshipDisclosed": true,
+    "svibeAlternativeQualified": true,
+    "wordCount": 1416,
+    "sourceDate": "2026-11-08"
+  },
+  "image": {
+    "model": "happy",
+    "product": "Happy Rabbit Slimline Realistic",
+    "sourcePage": "https://www.lovehoney.com/sex-toys/vibrators/rabbit-vibrators/p/happy-rabbit-slimline-realistic-rechargeable-rabbit-vibrator/a39951g73134.html",
+    "sourceImage": "https://media.lovehoneyassets.com/i/lovehoney/73134_a39951_purple_000?%24primary%24=&fmt=auto&h=765&qlt=80&w=574",
+    "file": "assets/happy.webp",
+    "width": 574,
+    "height": 765,
+    "credit": "Official product image; manufacturer or identified distributor",
+    "usageBasis": "Attributed editorial product analysis; no open licence or original photography claimed",
+    "checkedAt": "2026-11-08",
+    "historicalAsset": true,
+    "sha256": "53251dde89368abadf057cfe9d4c2119945449513fb9c24c1fd496a3869c1856",
+    "visualVerified": true
+  }
+}

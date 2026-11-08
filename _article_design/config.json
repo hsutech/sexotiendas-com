@@ -175,6 +175,63 @@
           "description": ""
         }
       ]
+    },
+    {
+      "route": "/blog/happy-rabbit-slimline-realistic-review/",
+      "title": "Happy Rabbit Slimline Realistic: review de medidas y controles",
+      "language": "es",
+      "siteSource": "content/blog/happy-rabbit-slimline-realistic-review.md",
+      "compareLabel": "Leer el análisis",
+      "relatedArticles": [
+        {
+          "title": "SVibe Snail Curve vs Happy Rabbit Slimline Realistic: ¿cuál merece la pena?",
+          "route": "/blog/svibe-curve-vs-happy-rabbit-slimline-realistic/",
+          "description": ""
+        },
+        {
+          "title": "SVibe Snail Jovi: mi análisis del ajuste, el mando y las opiniones",
+          "route": "/blog/svibe-snail-jovi-opiniones/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "route": "/blog/we-vibe-sync-2-review/",
+      "title": "We-Vibe Sync 2: review del ajuste, mando y aplicación",
+      "language": "es",
+      "siteSource": "content/blog/we-vibe-sync-2-review.md",
+      "compareLabel": "Leer el análisis",
+      "relatedArticles": [
+        {
+          "title": "SVibe Snail Jovi vs We-Vibe Sync 2: ¿cuál merece la pena?",
+          "route": "/blog/svibe-jovi-vs-we-vibe-sync-2/",
+          "description": ""
+        },
+        {
+          "title": "SVibe Snail Jovi: mi análisis del ajuste, el mando y las opiniones",
+          "route": "/blog/svibe-snail-jovi-opiniones/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "route": "/blog/lovense-lush-3-review/",
+      "title": "Lovense Lush 3: review y razones para seguir considerando esta generación",
+      "language": "es",
+      "siteSource": "content/blog/lovense-lush-3-review.md",
+      "compareLabel": "Leer el análisis",
+      "relatedArticles": [
+        {
+          "title": "7 alternativas al Lovense Lush 3: cuándo actualizar y cuándo cambiar",
+          "route": "/blog/alternativas-lovense-lush-3/",
+          "description": ""
+        },
+        {
+          "title": "SVibe Snail Jovi: mi análisis del ajuste, el mando y las opiniones",
+          "route": "/blog/svibe-snail-jovi-opiniones/",
+          "description": ""
+        }
+      ]
     }
   ],
   "domain": "sexotiendas.com"

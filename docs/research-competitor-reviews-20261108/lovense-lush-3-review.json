@@ -1,0 +1,88 @@
+{
+  "article": {
+    "product": "Lovense Lush 3",
+    "keyword": "Lovense Lush 3 opiniones",
+    "language": "es",
+    "intent": "Individual model assessment; purchase fit and limitations rather than a ranking or versus article",
+    "checked_at": "2026-11-08",
+    "existingRelatedUrl": "https://sexotiendas.com/blog/alternativas-lovense-lush-3/"
+  },
+  "brief": {
+    "uniqueAngle": "Cuándo conservar o elegir la generación anterior frente a Lush 4",
+    "destination": "sexotiendas.com",
+    "minimumWords": 1300,
+    "imagePlan": "Exact model official product photograph, attributed; historical image checked against current model",
+    "disclosure": "Commissioned SVibe campaign; documentary analysis; no physical testing"
+  },
+  "sources": [
+    {
+      "url": "https://www.lovense.com/bluetooth-remote-control-vibrator",
+      "kind": "official manufacturer or identified official distributor",
+      "supports": [
+        "Internal egg with app control and non-LED silicone tail",
+        "75 g; IPX7; magnetic USB charging",
+        "80 minute charge; advertised up to 220 minute runtime",
+        "Lovense Remote long-distance functionality needs internet and local device connection"
+      ]
+    },
+    {
+      "url": "https://svibe.com/products/snail-twinn-us-intl",
+      "kind": "official SVibe product page",
+      "supports": [
+        "Alternative mechanism and controls; not equivalent to competitor model"
+      ]
+    }
+  ],
+  "claims": {
+    "verified": [
+      "Internal egg with app control and non-LED silicone tail",
+      "75 g; IPX7; magnetic USB charging",
+      "80 minute charge; advertised up to 220 minute runtime",
+      "Lovense Remote long-distance functionality needs internet and local device connection"
+    ],
+    "external_observations": [],
+    "editorial_inferences": [
+      "Cuándo conservar o elegir la generación anterior frente a Lush 4"
+    ],
+    "firsthand_evidence": []
+  },
+  "conflicts": [],
+  "must_not_claim": [
+    "Firsthand testing",
+    "Guaranteed fit, silence, performance or outcomes",
+    "Current local prices, stock, delivery or warranty without market-specific verification",
+    "Svibe has the same mechanism or functions as the reviewed competitor"
+  ],
+  "serp": {
+    "checkedAt": "2026-11-08",
+    "query": "Lovense Lush 3 review",
+    "patterns": [
+      "Manufacturer descriptions, retailer listings and experiential reviews",
+      "Generation-specific functions require checking exact SKU"
+    ],
+    "gap": "Cuándo conservar o elegir la generación anterior frente a Lush 4"
+  },
+  "editorialChecks": {
+    "exactModel": true,
+    "firsthandTestingClaimed": false,
+    "commercialRelationshipDisclosed": true,
+    "svibeAlternativeQualified": true,
+    "wordCount": 1412,
+    "sourceDate": "2026-11-08"
+  },
+  "image": {
+    "model": "lush3",
+    "product": "Lovense Lush 3",
+    "sourcePage": "https://www.lovense.com/bluetooth-remote-control-vibrator",
+    "sourceImage": "https://cdn.lovense.com/UploadFiles/web/productpage/20231122/447901be459c46898196ae20199064a2.jpg",
+    "file": "assets/lush3.webp",
+    "width": 1100,
+    "height": 578,
+    "credit": "Official product image; manufacturer or identified distributor",
+    "usageBasis": "Attributed editorial product analysis; no open licence or original photography claimed",
+    "checkedAt": "2026-11-08",
+    "historicalAsset": false,
+    "sha256": "434593ccf811842ae2cd08a3df9cf5ed449ce8539feda6f998be71d5efbe60a2",
+    "visualVerified": true
+  }
+}
