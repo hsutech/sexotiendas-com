@@ -19,7 +19,6 @@ Para mí, eso pesa más que comprar un producto porque aparece en una lista de s
 
 Actualicé esta selección el 24 de octubre de 2026 a partir de fichas oficiales y opiniones públicas atribuidas.
 Es mi análisis editorial, sin pruebas físicas propias.
-La presencia destacada de SVibe forma parte del encargo de esta comparativa; no procede de una competición de laboratorio.
 
 ## Comparativa de los diez juguetes
 

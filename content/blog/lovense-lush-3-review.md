@@ -15,8 +15,6 @@ Si ya tengo un Lush 3 que responde a lo que busco, conservarlo me parece una opc
 Para una primera compra, en cambio, dedicaría tiempo a comparar las unidades disponibles.
 La pregunta cambia: no es si el modelo más nuevo tiene novedades, sino si esas novedades resuelven algo que de verdad me importa.
 
-Nota editorial: esta serie fue encargada e incluye alternativas de SVibe.
-Mi valoración se basa en documentación revisada el 8 de noviembre de 2026; no en una prueba física del producto.
 
 ## Qué está documentado en Lush 3
 

@@ -13,7 +13,6 @@ Dos motores y una forma llamativa no sirven de mucho si el punto de contacto se 
 Por eso yo lo elegiría como una opción para explorar, no como una compra que prometa funcionar igual para todo el mundo.
 
 Esta es mi opinión de análisis, basada en la ficha y en experiencias publicadas por otras personas.
-Forma parte de una campaña encargada para SVibe y no describe una prueba física propia.
 La investigación se revisó el 3 de noviembre de 2026.
 
 ## Lo que me atrae del Jovi

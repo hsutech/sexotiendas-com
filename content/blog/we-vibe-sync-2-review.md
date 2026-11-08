@@ -16,8 +16,6 @@ Puede que el mando sea suficiente.
 Puede que la conexión sea el motivo de compra.
 Saberlo de antemano ayuda a elegir con más criterio que sumar funciones que luego se quedan sin usar.
 
-Nota editorial: esta serie fue encargada e incluye alternativas de SVibe.
-Mi valoración se basa en documentación revisada el 8 de noviembre de 2026; no en una prueba física del producto.
 
 ## Qué corresponde a Sync 2
 
@@ -133,7 +131,6 @@ Me interesa como alternativa cuando ambos preferimos un anillo con mando próxim
 
 El mando físico de Jovi no debe presentarse como control por internet.
 Si esa función es indispensable, no conviene recomendar una alternativa que la deje sin resolver.
-La presencia de SVibe en esta serie no cambia ese criterio.
 
 ## Mi valoración final
 

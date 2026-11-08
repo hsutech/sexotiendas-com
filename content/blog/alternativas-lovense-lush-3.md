@@ -16,7 +16,6 @@ Esa distinción evita una compra bastante habitual: cambiar de generación esper
 Un aparato más reciente puede mejorar una cifra de la ficha sin cambiar la parte que a ti no te convence.
 Aquí comparo siete caminos posibles, incluidos algunos que implican dejar atrás la idea de huevo vibrador.
 
-El texto forma parte de un encargo editorial para la campaña de SVibe.
 Mi primera persona corresponde al análisis de documentación y opiniones publicadas, no a una prueba física propia.
 Las referencias se revisaron el 27 de octubre de 2026.
 

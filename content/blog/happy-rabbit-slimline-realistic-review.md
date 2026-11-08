@@ -16,8 +16,6 @@ Esta review trata del Slimline Realistic, referencia 73134.
 No elegiría otra variante de Happy Rabbit suponiendo que conserva la misma forma.
 Antes de comparar precios, quiero saber que la imagen, la descripción y las instrucciones hablan de la unidad que va a llegar a casa.
 
-Nota editorial: esta serie fue encargada e incluye alternativas de SVibe.
-Mi valoración se basa en documentación revisada el 8 de noviembre de 2026; no en una prueba física del producto.
 
 ## Cómo leer los quince modos anunciados
 
